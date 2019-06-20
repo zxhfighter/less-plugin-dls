@@ -1,3 +1,13 @@
+## 0.4.0
+
+- Add TextInput.
+- Add NumberInput.
+- Add `dls-sum` function.
+
+## 0.3.0
+
+- Add Checkbox.
+
 ## 0.2.0
 
 - [breaking] Dropped `@dls-button-font-color-link` and `@dls-button-font-color-link-disabled`.
